@@ -1,0 +1,8 @@
+# Pillow - Python Imaging Library fork
+# Used for image processing tasks like creating the final QR image,
+# resizing the logo, and adding text below the QR code.
+Pillow==10.0.0
+
+# qrcode - QR Code generation library
+# Used to generate the QR code from the given GitHub URL.
+qrcode==7.4.2
